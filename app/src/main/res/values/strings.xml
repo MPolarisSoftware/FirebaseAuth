@@ -1,3 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">FirebaseAuth</string>
+    <string name="site_title">FirebaseAuth</string>
+    <string name="tutorial_title">
+        Firebase\n
+        authentication
+    </string>
 </resources>
